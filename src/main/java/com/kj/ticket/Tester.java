@@ -1,3 +1,4 @@
+// todo : (1)add children ticket and older ticket (2)use list to replace code
 package com.kj.ticket;
 
 import java.util.Scanner;
