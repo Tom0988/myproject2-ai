@@ -1,4 +1,4 @@
-package com.tom;
+package com.kj;
 
 public class Hello2 {
 }

@@ -1,4 +1,4 @@
-package com.tom.ticket;
+package com.kj.ticket;
 
 public class Station {
     public static final Station TAIPEI_CITY =

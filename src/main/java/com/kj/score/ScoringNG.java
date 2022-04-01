@@ -1,4 +1,4 @@
-package com.tom.score;
+package com.kj.score;
 
 public class ScoringNG {
 

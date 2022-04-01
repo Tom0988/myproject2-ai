@@ -1,4 +1,4 @@
-package com.tom.sales;
+package com.kj.sales;
 
 public class GoldCustomer extends SilverCustomer{
     public GoldCustomer (String level, String id, int amount){ super(level, id, amount); }
